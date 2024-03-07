@@ -1,7 +1,7 @@
-### Drone Image Management for Wind Energy Companies 🚁💨👋
+### Gerenciamento de imagens de drones para empresas de energia eólica 🚁💨👋
 Bem-vindo ao repositório da nossa solução de gestão e inspeção de imagens de drones semi autônomos, especialmente projetada para atender às necessidades das empresas eólicas!
 
-### Descrição do Projeto
+### Descrição 🚀
 Nossa empresa oferece uma solução eficiente para a gestão e inspeção de imagens capturadas por drones semi autônomos, focada no setor de energia eólica. Simplificamos o processo de coleta, armazenamento e análise de dados visuais, proporcionando uma abordagem inovadora para a manutenção e monitoramento de turbinas eólicas.
 
 ### Recursos Principais 🌟
