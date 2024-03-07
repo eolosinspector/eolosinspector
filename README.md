@@ -6,6 +6,9 @@ Nossa empresa oferece uma solução eficiente para a gestão e inspeção de ima
 
 ### Recursos Principais 🌟
 🔧 Gestão de Imagens: Organize e armazene facilmente imagens capturadas pelos drones.
+
 🔧 Análise Avançada: Utilize ferramentas de análise para insights valiosos sobre o estado das turbinas.
+
 🔧 Integração Sem Complicações: Integre nossa solução ao seu sistema existente com facilidade.
+
 🔧 Automação Inteligente: Aproveite recursos semi autônomos para uma inspeção eficiente.
